@@ -51,6 +51,6 @@ A web-based app to book movie tickets using Django and MySQL.
 
 ## 📫 Contact Me
 📧 adityasharma9113918@gmail.com  
-🔗 [Linkdin] ([https://www.linkedin.com/in/aditya-sharma-0a4086376)) | [GitHub] (https://github.com/Adityasharma001831/Aditya-Sharma/blob/main/README.md))  
+🔗 [Linkdin] ([https://www.linkedin.com/in/aditya-sharma-0a4086376)) | [GitHub] (https://github.com/Adityasharma001831))  
 
 ---
